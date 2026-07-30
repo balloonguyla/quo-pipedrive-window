@@ -1,0 +1,12 @@
+{
+  "name": "quo-pipedrive-floating-window",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Quo (formerly OpenPhone) floating window for Pipedrive — click-to-call, SMS, history, and activity logging",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
